@@ -9,10 +9,10 @@
   <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Area Chairs</h4>
+<h4 style="margin:0 10px 0;">Moderator & Discussant</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024-2025</autocolor></a></li>
+  <li><autocolor>Discussant, SCRIPTS Workshop “Sharpening Analytic Instruments of Narrative Contestation During Conflicts”, Freie Universität Berlin, 2024</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2024-2025</autocolor></a></li>
@@ -54,5 +54,4 @@
   <li><a href="https://journals.sagepub.com/home/aasb"><autocolor>Administration & Society (A&S)</autocolor></a></li>
   <li><a href="https://academic.oup.com/cjres"><autocolor>Cambridge Journal of Regions, Economy and Society (CJRES)</autocolor></a></li>
   <li><a href="http://journal08.magtech.org.cn/Jwk3_zlyj/CN/1007-9092/home.shtml"><autocolor>治理研究</autocolor></a></li>
- </li>
 </ul>
