@@ -12,7 +12,7 @@
 <h4 style="margin:0 10px 0;">Moderator & Discussant</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Discussant, SCRIPTS Workshop “Sharpening Analytic Instruments of Narrative Contestation During Conflicts”, Freie Universität Berlin, 2024</autocolor></a></li>
+  <li><autocolor>Discussant, SCRIPTS Workshop “Sharpening Analytic Instruments of Narrative Contestation During Conflicts”, Freie Universität Berlin, 2024</autocolor></li>
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2024-2025</autocolor></a></li>
