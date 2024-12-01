@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talks
-permalink: /talks/
+permalink: /homepage/talks/
 ---
 
 {% include_relative _includes/talks.md %}
