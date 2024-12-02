@@ -21,8 +21,8 @@
 <h4 style="margin:0 10px 0;">Exchange & internship</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Internship, The State Post Bureau, Beijing, 2015</autocolor></li>
-  <li><autocolor>Internship, China Biodiversity Conservation and Green Development Foundation (CBCGDF), Beijing, 2014, 2017</autocolor></li>
+  <li><autocolor>Internship, The State Post Bureau(国家邮政局), Beijing, 2015</autocolor></li>
+  <li><autocolor>Internship, China Biodiversity Conservation and Green Development Foundation (中国生物多样性保护与绿色发展基金会), Beijing, 2014, 2017</autocolor></li>
   <li><autocolor>Internship, Legambiente Environmental Group in Padova, Italy, 2017</autocolor></li>
   <li><autocolor>Panelists, Civil Society 20 (C20) Summit 2017 in Hamburg, Germany, 2017</autocolor></li>
 </ul>
