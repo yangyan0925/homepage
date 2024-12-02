@@ -15,7 +15,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://list.epsanet.org/empathy/attachment/141401"><autocolor>Discussant, SCRIPTS Workshop “Sharpening Analytic Instruments of Narrative Contestation During Conflicts”, Freie Universität Berlin, November 2024</autocolor></a></li>
-  <li><a href="https://convention2.allacademic.com/one/apsa/apsa23/"><autocolor>Panel chair, 2023 APSA Annual Meeting, Created panel “Pathways to "Green Policies" and a Greener Future”, Los Angeles, August 2023</autocolor></a></li>
+  <li><a href="https://convention2.allacademic.com/one/apsa/apsa23/"><autocolor>Panel chair, 2023 APSA Annual Meeting, Created panel “Pathways to 'Green Policies' and a Greener Future”, Los Angeles, August 2023</autocolor></a></li>
   <li><autocolor>lecture moderator, “China Studies and Its Development”, Beijing University of Posts and Telecommunications, June 2019</autocolor></li>
 </ul>
 
