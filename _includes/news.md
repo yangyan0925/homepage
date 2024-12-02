@@ -3,7 +3,7 @@
 <ul>
 <li><strong>[April. 2025]</strong> My working paper on the power structure and loyalty signaling in China has been accepted for presentation at the <a href="https://www.psa.ac.uk/events/psa-annual-conference">Political Studies Association (PSA)</a>'s annual conference, to be hosted by the University of Birmingham and Aston University from April 14–16, 2025, in the UK!</li>
 <li><strong>[Nov. 2024]</strong> My paper, co-authored with Dr. Zhusong Yang from Tsinghua University, on the public image of local political elites in China, has been conditionally accepted by <a href="https://jcp.gc.cuny.edu/">Comparative Politics</a>!</li>
-<li><strong>[Nov. 2024]</strong> I will present my working paper on the narrative of China's digital surveillance projects at the annual conference of the <a href="https://asienforschung.de/arbeitskreise/asc/">German Association for Asian Studies (ASC)</a> in Bonn, Germany.</li>
+<li><strong>[Nov. 2024]</strong> I will present my working paper on the narrative of China's digital surveillance projects at the annual conference of the <a href="https://asienforschung.de/arbeitskreise/asc/">Arbeitskreis Sozialwissenschaftliche Chinaforschung (ASC)</a> in the University of Bonn, Germany.</li>
 
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
