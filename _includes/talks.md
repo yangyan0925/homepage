@@ -18,20 +18,20 @@
 <h4 style="margin:0 10px 0;">Unveiling Diverse Narratives in the Public Image of Political Elites in China.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Session&selected_session_id=2160536&PHPSESSID=safsa41fd3c4r3vasbn5nsplgp"><autocolor>American Political Science Association (APSA) Annual Conference, Philadelphia, USA, September 2024.</autocolor></a></li>
+  <li><a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Session&selected_session_id=2160536&PHPSESSID=safsa41fd3c4r3vasbn5nsplgp"><autocolor>American Political Science Association (APSA) Annual Meeting, Philadelphia, USA, September 2024.</autocolor></a></li>
   <li><a href="https://ecpr.eu/Events/Event/PaperDetails/74861"><autocolor>European Consortium for Political Research (ECPR) General Conference, University College Dublin, Ireland, August 2024.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">State-led Digital Transformation and Policy Narratives of Chinese Local Governments.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Session&selected_session_id=2145321&PHPSESSID=safsa41fd3c4r3vasbn5nsplgp"><autocolor>American Political Science Association (APSA) Annual Conference, Philadelphia, USA, September 2024.</autocolor></a></li>
+  <li><a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Session&selected_session_id=2145321&PHPSESSID=safsa41fd3c4r3vasbn5nsplgp"><autocolor>American Political Science Association (APSA) Annual Meeting, Philadelphia, USA, September 2024.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Policy Agendas and Environmental Protection: How Agenda-Setting Matters.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://convention2.allacademic.com/one/apsa/apsa23/"><autocolor>American Political Science Association (APSA) Annual Conference, Los Angeles, USA, September 2023.</autocolor></a></li>
+  <li><a href="https://convention2.allacademic.com/one/apsa/apsa23/"><autocolor>American Political Science Association (APSA) Annual Meeting, Los Angeles, USA, September 2023.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Political Attention in a Single-Party State: Evidence from China.</h4>
