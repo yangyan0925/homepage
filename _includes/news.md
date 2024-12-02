@@ -7,7 +7,7 @@
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-  <li><strong>[August. 2024]</strong> I will present a working paper on the public image of local political elites in China at the annual conference of the <a href="https://ecpr.eu/Events/Event/PaperDetails/74861">European Consortium for Political Research (ECPR)</a> in Dublin, Ireland.</li> 
+  <li><strong>[August. 2024]</strong> I will present my working paper on the public image of local political elites in China at the <a href="https://ecpr.eu/Events/Event/PaperDetails/74861">European Consortium for Political Research (ECPR)</a> General Conference 2024 in Dublin, Ireland.</li> 
 </div>
 
 </ul>
