@@ -1,7 +1,7 @@
 main:
 
   - title: "Towards All-round Cadres: Policy Priorities and Issue Diversity of Local Bureaucrats in China, 2005–19"
-    authors: Zhusong Yang, <strong>Yang Yan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Haoxiang Xu
+    authors: Zhusong Yang, <strong>Yang Yan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Haoxiang Xu <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: CIJ
     conference: China An International Journal, 2024.
     pdf: https://www.researchgate.net/publication/378803856_Towards_All-round_Cadres_Policy_Priorities_and_Issue_Diversity_of_Local_Bureaucrats_in_China_2005-19
@@ -11,7 +11,7 @@ main:
     image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/CIJ2024.png
 
   - title: "Personnel Control and Local Officials’ Attention to Economic Development: Evidence from China"
-    authors: Yang Yan, Tom Christensen, <strong>Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>
+    authors: <strong>Yang Yan</strong>, Tom Christensen, Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
     conference_short: A&S
     conference: Administration & Society <strong>(A&S)</strong>, 2024.
     pdf: "https://www.researchgate.net/publication/377307590_Personnel_Control_and_Local_Officials'_Attention_to_Economic_Development_Evidence_from_China"
@@ -20,7 +20,7 @@ main:
     image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/AS2024.png
 
   - title: "Political Attention in a Single-Leading-Party State: A Comparative Study of the Policy Agenda in China, 2003–2019"
-    authors: Yang Yan,  <strong>Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chunhui Yuan
+    authors: <strong>Yang Yan</strong>,  Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Chunhui Yuan
     conference_short: JCPA
     conference: Journal of Comparative Policy Analysis <strong>(JCPA)</strong>, 2021.
     pdf: https://www.researchgate.net/publication/348223823_Political_Attention_in_a_Single-Leading-Party_State_A_Comparative_Study_of_the_Policy_Agenda_in_China_2003-2019
@@ -29,7 +29,7 @@ main:
     image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/JCPA2021.png
     
   - title: "City Administrative Level and Municipal Party Secretaries’ Promotion: Understanding the Logic of Shaping Political Elites in China"
-    authors: Yang Yan, <strong>Chunhui Yuan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>
+    authors: <strong>Yang Yan</strong>, Chunhui Yuan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
     conference_short: JCC
     conference: Journal of Contemporary China <strong>(JCC)</strong>, 2020.
     pdf: https://www.researchgate.net/publication/334208652_City_Administrative_Level_and_Municipal_Party_Secretaries'_Promotion_Understanding_the_Logic_of_Shaping_Political_Elites_in_China
