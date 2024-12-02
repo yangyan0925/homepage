@@ -14,7 +14,7 @@ You can find my **curriculum vitae** here: [CV(English)](./assets/file/CV_YangYA
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market for 2025.</strong> 
 
-欢迎来到我的个人主页！我叫燕阳，目前在柏林自由大学中国研究中心担任博士后研究员，我于北京邮电大学取得管理科学与工程博士学位（2021），并曾在清华大学公共管理学院担任博士后（2021-2023）。我的研究领域涉及公共政策过程、政治沟通和数字治理，我目前正在进行关于数字化对中国地方政府政策过程和官员行为影响的研究，同时也在关注数字时代的政治沟通策略及其传播机制。我的研究已经或即将发表在政治学、公共管理以及区域研究的中英文同行评议刊物上，包括*Comparative Politics*、*Administration & Society*和*Journal of Contemporary China*、《政治学研究》、《治理研究》等。您可以在这里找到我的中文简历：[CV(中文)](./assets/file/CV_燕阳202412.pdf)
+欢迎来到我的主页！我叫燕阳，目前在柏林自由大学中国研究中心担任博士后研究员，我于北京邮电大学取得管理科学与工程博士学位（2021），并曾在清华大学公共管理学院担任博士后（2021-2023）。我的研究领域涉及公共政策过程、政治沟通和数字治理，我目前正在进行关于数字化如何影响中国地方政府政策过程和官员行为的研究，同时我也在关注数字时代的政治沟通策略及其传播机制。我的研究已经或即将发表在政治学、公共管理以及区域研究的中英文同行评议刊物上，包括*Comparative Politics*、*Administration & Society*和*Journal of Contemporary China*、《政治学研究》、《治理研究》等。您可以在这里找到我的中文简历：[CV(中文)](./assets/file/CV_燕阳202412.pdf)
 
 {% include_relative _includes/news.md %}
 
