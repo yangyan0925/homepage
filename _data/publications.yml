@@ -1,7 +1,17 @@
 main:
 
+  - title: "Portraying Competence, Benevolence or Party-Loyalty? Political Propaganda and Image-Building of Political Elites in China"
+    authors: <strong>Yang Yan</strong>, Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: CP
+    conference: Comparative Politics, Accepted and forthcoming, 2025.
+    # pdf: https://www.researchgate.net/publication/378803856_Towards_All-round_Cadres_Policy_Priorities_and_Issue_Diversity_of_Local_Bureaucrats_in_China_2005-19
+    # bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    # data: https://github.com/wufeim/imagenet3d
+    # page: https://imagenet3d.github.io/
+    image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/CP2025.png
+  
   - title: "Towards All-round Cadres: Policy Priorities and Issue Diversity of Local Bureaucrats in China, 2005–19"
-    authors: Zhusong Yang, <strong>Yang Yan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Haoxiang Xu <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors: Zhusong Yang, <strong>Yang Yan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Haoxiang Xu
     conference_short: CIJ
     conference: China An International Journal, 2024.
     pdf: https://www.researchgate.net/publication/378803856_Towards_All-round_Cadres_Policy_Priorities_and_Issue_Diversity_of_Local_Bureaucrats_in_China_2005-19
