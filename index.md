@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am a postdoctoral researcher in the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html) at the [Freie Universität Berlin](https://www.fu-berlin.de/) and a core member of Prof. Dr. Genia Kostka’s ERC-funded project, [Digital Governance in China](https://www.digitalgovernancechina.eu/).
+I am a postdoctoral researcher in the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html) at the [Freie Universität Berlin](https://www.fu-berlin.de/) and a core member of [Prof. Dr. Genia Kostka](https://www.geschkult.fu-berlin.de/e/oas/sinologie/institut/mitarbeiter/1_professoren/Kostka.html)’s ERC-funded project, [Digital Governance in China](https://www.digitalgovernancechina.eu/).
 
 My research lies at the intersection of public administration and comparative politics, with a particular focus on **agenda-setting**, **political propaganda**, and **digital politics**. Currently, I am exploring the implementation and impact of the “Digital China (数字中国)” strategy and examining how the Chinese Communist Party navigates political communication in the digital era. I am also interested in elite politics, bureaucratic dynamics, and environmental governance in contemporary China.
 
