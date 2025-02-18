@@ -11,6 +11,7 @@
 <h4 style="margin:0 10px 0;">How the Chinese Government Creates and Propagates Digital Surveillance Narratives.</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>PRIVACY-China Workshop, St Antony’s College, University of Oxford, UK, 3 and 4 July 2025.</li>
   <li><a href="https://www.cassis.uni-bonn.de/en/news/2024-asc-annual-meeting"><autocolor>The annual meeting of the Arbeitskreis Sozialwissenschaftliche Chinaforschung (ASC), University of Bonn, Germany, November 2024.</autocolor></a></li>
   <li>SCRIPTS Workshop Sharpening: Analytic Instruments of Narrative Contestation During Conflicts, Freie Universität Berlin,Germany, November 2024.</li>
 </ul>
