@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[May 2025]</strong> My working paper, <em>“Who Goes Digital and Why? Explaining Variations in Provincial Digitalization Agendas in China”</em>, co-authored with Prof. Dr. Genia Kostka, has been accepted for presentation at the International Conference on China Policy Studies (ICCPS), to be held at Beijing Normal University from June 6 to 8, 2025.</li>
-<li><strong>[July 2025]</strong> I will present my working paper, co-authored with Danqi Guo and Prof. Dr. Genia Kostka, on the narrative of China's digital surveillance projects at the two-day “PRIVACY-China Workshop,” held at St Antony’s College, University of Oxford, from July 3 to 4, 2025.</li>
+<li><strong>[Feb 2025]</strong> I will present my working paper, co-authored with Danqi Guo and Prof. Dr. Genia Kostka, on the narrative of China's digital surveillance projects at the two-day “PRIVACY-China Workshop,” held at St Antony’s College, University of Oxford, from July 3 to 4, 2025.</li>
 <li><strong>[Feb. 2025]</strong> My paper, co-authored with Dr. Zhusong Yang from Tsinghua University, on the public image of local political elites in China, is now available online at <a href="https://doi.org/10.5129/001041525X17380761641486">Comparative Politics</a>!</li>
 
 
