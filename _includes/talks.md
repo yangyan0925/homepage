@@ -2,6 +2,12 @@
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
+<h4 style="margin:0 10px 0;">Who Goes Digital and Why? Explaining Variations in Provincial Digitalization Agendas in China.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://iccps.bnu.edu.cn/"><autocolor>International Conference on China Policy Studies (ICCPS), Beijing Normal University, Beijing, June 6–8, 2025.</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Power Structure, Factional Competition, and Loyalty Signaling in Authoritarian Regimes: Evidence from China.</h4>
 
 <ul style="margin:0 0 5px;">
