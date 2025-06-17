@@ -12,7 +12,7 @@ My research lies at the intersection of public administration and comparative po
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am currently on the job market for 2025.</strong>  -->
 
-欢迎来到我的主页！我叫燕阳，目前在柏林自由大学中国研究中心担任博士后研究员，2021年6月我在北京邮电大学取得管理科学与工程博士学位，随后进入清华大学公共管理学院从事博士后至2023年11月。我的研究领域涉及公共政策过程、政治沟通和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
+欢迎来到我的主页！我叫燕阳，目前在柏林自由大学中国研究中心担任博士后研究员（2023.11至今），我在北京邮电大学获得管理学学士（2015.7）和管理科学与工程博士学位（2021.6），并曾在清华大学公共管理学院从事博士后研究。我的研究兴趣涉及公共政策过程、精英政治和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
 
 {% include_relative _includes/news.md %}
 
