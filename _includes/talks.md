@@ -2,10 +2,12 @@
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
+
+
 <h4 style="margin:0 10px 0;">Policy Agenda-Setting in Comparative Perspective: Theoretical Evolution and Research Frontiers.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://www.sg.bnu.edu.cn/hdyg/8ee9e759c9a3457eaaa1ef85f0118713.htm"><autocolor>Public Lecture Series “Policy Researchers’ Forum” (#14), School of Government, Beijing Normal University, Beijing, June 2025.</autocolor></li>
+  <li><a href="http://www.sg.bnu.edu.cn/hdyg/8ee9e759c9a3457eaaa1ef85f0118713.htm"><autocolor>Public Lecture Series “Policy Researchers’ Forum” (#14), School of Government, Beijing Normal University, Beijing, June 2025.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Who Goes Digital and Why? Explaining Variations in Provincial Digitalization Agendas in China.</h4>
