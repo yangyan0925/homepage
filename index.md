@@ -6,9 +6,34 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-> “一个人的命运当然要靠自我奋斗，但也要考虑到历史的进程。”  
-> *"One’s destiny surely rests on personal effort, yet it must also be understood in light of the course of history."*  
-> — 江泽民 (Jiang Zemin)
+<!-- HERO QUOTE (paste at the very top of your homepage Markdown) -->
+<div class="hero-quote">
+  <p class="cn">“一个人的命运当然要靠自我奋斗，但也要考虑到历史的进程。”</p>
+  <p class="en"><em>"One’s destiny surely rests on personal effort, yet it must also be understood in light of the course of history."</em></p>
+  <p class="attr">— 江泽民 (Jiang Zemin)</p>
+</div>
+
+<style>
+.hero-quote{
+  box-sizing:border-box;
+  max-width: 920px; margin: 28px auto 36px auto; padding: 20px 22px;
+  border-left: 4px solid var(--accent, #3b82f6);
+  background: rgba(0,0,0,0.03); border-radius: 10px;
+}
+.hero-quote .cn{
+  font-size: 1.15rem; line-height: 1.6; margin: 0 0 6px 0;
+}
+.hero-quote .en{
+  font-size: 1rem; line-height: 1.55; margin: 0 0 6px 0; opacity: .9;
+}
+.hero-quote .attr{
+  margin: 6px 0 0 0; font-size: .95rem; opacity: .8;
+}
+@media (prefers-color-scheme: dark){
+  .hero-quote{ background: rgba(255,255,255,0.06); }
+  .hero-quote .en, .hero-quote .attr{ opacity: .85; }
+}
+</style>
 
 I am a postdoctoral researcher in the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html) at the [Freie Universität Berlin](https://www.fu-berlin.de/) and a core member of [Prof. Dr. Genia Kostka](https://www.geschkult.fu-berlin.de/e/oas/sinologie/institut/mitarbeiter/1_professoren/Kostka.html)’s ERC-funded project, [Digital Governance in China](https://www.digitalgovernancechina.eu/). I earned my Ph.D. in Management Science and Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in July 2021 and served as a postdoctoral fellow at the [School of Public Policy and Management, Tsinghua University](https://www.sppm.tsinghua.edu.cn/), from 2021 to 2023. You can find my **curriculum vitae** here: [CV](./assets/file/CV_202506.pdf)
 
