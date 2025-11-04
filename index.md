@@ -7,8 +7,7 @@ layout: homepage
 <h2 style="margin: 80px 0px 10px;"></h2>
 
 > “一个人的命运当然要靠自我奋斗，但也要考虑到历史的行程。”
-> *"One’s destiny surely rests on personal effort, yet it must also be understood in light of the course of history."*
-> <p style="text-align:right; margin:0;">— 江泽民 (Jiang Zemin)</p>
+> *"One’s destiny surely rests on personal effort, yet it must also be understood in light of the course of history."* <span style="float:right;">— 江泽民 (Jiang Zemin)</span>
 
 I am a postdoctoral researcher in the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html) at the [Freie Universität Berlin](https://www.fu-berlin.de/) and a core member of [Prof. Dr. Genia Kostka](https://www.geschkult.fu-berlin.de/e/oas/sinologie/institut/mitarbeiter/1_professoren/Kostka.html)’s ERC-funded project, [Digital Governance in China](https://www.digitalgovernancechina.eu/). I earned my Ph.D. in Management Science and Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in July 2021 and served as a postdoctoral fellow at the [School of Public Policy and Management, Tsinghua University](https://www.sppm.tsinghua.edu.cn/), from 2021 to 2023. You can find my **curriculum vitae** here: [CV](./assets/file/CV_202506.pdf)
 
