@@ -16,7 +16,7 @@ I am a postdoctoral researcher in the [Institute for Chinese Studies](https://ww
 
 My research lies at the intersection of political science and public administration, with a particular focus on **elite and bureaucratic politics**, **political propaganda**, **issue attention**, and **digital politics**. Currently, I am exploring the implementation and impact of the “Digital China (数字中国)” strategy and examining how the Chinese government navigates political communication in the digital era. My work has been published in peer-reviewed journals such as *Comparative Politics*, *Administration & Society*, *Journal of Comparative Policy Analysis*, *Journal of Contemporary China*, and *China: An International Journal*.
 
-Beyond my research, I explore European history from the medieval world onward. I’m especially drawn to porcelain, miniature painting, and prints, and I’m steadily learning the craft behind them. Political science is a serious discipline; it is enriched by an equally serious attention to beauty.
+Beyond my research, I explore European history from the medieval world onward. I have visited dozens of antique shops and flea markets across Germany and Europe, and I look forward to discovering more vintage pieces—and the stories they carry. I’m especially drawn to porcelain, miniature painting, and prints, and I’m steadily learning the craft behind them. **Political science also needs an education in beauty**.
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am currently on the job market for 2025.</strong>  -->
 
