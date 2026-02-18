@@ -8,6 +8,7 @@
   <li><a href="https://journals.sagepub.com/home/aasb"><autocolor>Administration & Society (A&S)</autocolor></a></li>
   <li><a href="https://academic.oup.com/cjres"><autocolor>Cambridge Journal of Regions, Economy and Society (CJRES)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/fenp20"><autocolor>Environmental Politics</autocolor></a></li>
+  <li><a href="https://journals.sagepub.com/home/IPS"><autocolor>International Political Science Review (IPSR)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/cjcc20"><autocolor>Journal of Contemporary China (JCC)</autocolor></a></li>
   <li><a href="https://www.emeraldgrouppublishing.com/journal/jebde"><autocolor> Journal of Electronic Business & Digital Economics </autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/15411338"><autocolor>Review of Policy Research (RPR)</autocolor></a></li>
