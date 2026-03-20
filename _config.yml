@@ -7,9 +7,11 @@ affiliation: Tongji University
 #email: 
 
 # Search Engine Optimization (SEO)
-keywords: yang yan, yan yang, yangyan, yanyang
+url: "https://yang-yan.com"
+baseurl: ""
+keywords: Yang Yan, Yang Yan Tongji University, Yang Yan political science, Yang Yan public administration, 燕阳, 同济大学
 canonical: https://yang-yan.com/
-description: Yang Yan is Assistant Professor specializing in political science and public administration.
+description: Yang Yan is an Assistant Professor at Tongji University specializing in elite politics, bureaucratic politics, political communication, issue attention, and digital governance.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -45,4 +47,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-  - CNAME
