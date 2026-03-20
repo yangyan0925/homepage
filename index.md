@@ -12,7 +12,7 @@ layout: homepage
   <p style="text-align:right; margin:0;">— 江泽民 (Jiang Zemin)</p>
 </blockquote>
 
-I am a postdoctoral researcher in the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html) at the [Freie Universität Berlin](https://www.fu-berlin.de/) and a core member of [Prof. Dr. Genia Kostka](https://www.geschkult.fu-berlin.de/e/oas/sinologie/institut/mitarbeiter/1_professoren/Kostka.html)’s ERC-funded project, [Digital Governance in China](https://www.digitalgovernancechina.eu/). In spring 2026, I will join the [School of Political Science and International Relations at Tongji University](https://spsir.tongji.edu.cn/main.htm) as an Assistant Professor. I earned my Ph.D. in Management Science and Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in July 2021 and served as a postdoctoral fellow at the [School of Public Policy and Management, Tsinghua University](https://www.sppm.tsinghua.edu.cn/), from 2021 to 2023. You can find my **curriculum vitae** here: [CV](./assets/file/CV_202506.pdf)
+I am an incoming Assistant Professor at the [School of Political Science and International Relations, Tongji University](https://spsir.tongji.edu.cn/main.htm). Before joining Tongji, I was a postdoctoral researcher at the [Institute for Chinese Studies](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html), [Freie Universität Berlin](https://www.fu-berlin.de/). I earned my Ph.D. in Management Science and Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2021. You can find my **curriculum vitae** here: [CV](./assets/file/CV_202506.pdf)
 
 My research lies at the intersection of political science and public administration, with a particular focus on **elite and bureaucratic politics**, **political propaganda**, **issue attention**, and **digital politics**. My work has been published in peer-reviewed journals such as *Comparative Politics*, *Administration & Society*, *Journal of Comparative Policy Analysis*, *Journal of Contemporary China*, and *China: An International Journal*.
 
@@ -20,7 +20,7 @@ Beyond my research, I explore European history from the medieval world onward. I
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am currently on the job market for 2025.</strong>  -->
 
-欢迎来到我的主页！我叫燕阳，目前在柏林自由大学中国研究中心担任博士后研究员（2023.11至今），我在北京邮电大学获得管理学学士（2015.7）和博士学位（2021.6），并曾在清华大学公共管理学院从事博士后研究。我的研究兴趣涉及精英政治、政治传播、议程设置和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
+欢迎来到我的主页！我叫燕阳，即将加入同济大学政治与国际关系学院，担任助理教授，此前，我在德国柏林自由大学中国研究中心担任博士后研究员（2023.11-2026.2)。我于北京邮电大学获得管理学学士和博士学位，并曾在清华大学公共管理学院从事博士后研究。我的研究兴趣涉及当代中国的精英政治、政治传播和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
 
 {% include_relative _includes/news.md %}
 
