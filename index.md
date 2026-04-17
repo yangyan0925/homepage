@@ -20,7 +20,7 @@ Beyond my research, I explore European history from the medieval world onward. I
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am currently on the job market for 2025.</strong>  -->
 
-欢迎来到我的主页！我叫燕阳，现任同济大学政治与国际关系学院助理教授，此前，我在德国柏林自由大学中国研究中心担任博士后研究员（2023.11-2026.2），并曾在清华大学公共管理学院从事博士后研究（2021.10-2023.10）。我在北京邮电大学获得管理学学士和管理科学与工程博士学位。我的研究兴趣涉及当代中国的精英政治、政治传播和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
+欢迎来到我的主页！我叫燕阳，现在同济大学政治与国际关系学院担任助理教授（准-长聘教轨），此前，我在德国柏林自由大学中国研究中心担任博士后研究员（2023.11-2026.2），并曾在清华大学公共管理学院从事博士后研究（2021.10-2023.10）。我在北京邮电大学获得管理学学士和管理科学与工程博士学位。我的研究兴趣涉及当代中国的精英政治、政治传播和数字治理，部分研究成果发表在*Comparative Politics*、*Administration & Society*、*Journal of Contemporary China*、《政治学研究》等比较政治、公共管理和区域研究同行评议刊物上。
 
 {% include_relative _includes/news.md %}
 
