@@ -22,7 +22,7 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Z1F1vLgAAAAJ
-cv_link: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/file/CV_202506.pdf
+cv_link: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/file/CV202604.pdf
 # github_link: https://github.com/yaoyao-liu/
 linkedin: https://www.linkedin.com/in/%E9%98%B3-%E7%87%95-684914296/
 twitter: https://x.com/yanyang_1992
@@ -32,13 +32,9 @@ avatar: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/img/Y
 
 
 # Footnotes
-# footnote: Feel free to use my website's source code.
-# footnote_link: https://github.com/yaoyao-liu/minimal-light
+# footnote: 
+# footnote_link:
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
 
 # The following files will be removed from the generated website.
 exclude:
