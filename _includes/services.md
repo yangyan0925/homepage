@@ -12,6 +12,7 @@
   <li><a href="https://www.tandfonline.com/journals/cjcc20"><autocolor>Journal of Contemporary China (JCC)</autocolor></a></li>
   <li><a href="https://www.emeraldgrouppublishing.com/journal/jebde"><autocolor> Journal of Electronic Business & Digital Economics </autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/15411338"><autocolor>Review of Policy Research (RPR)</autocolor></a></li>
+  <li><a href="https://www.nature.com/palcomms/"><autocolor> Humanities and Social Sciences Communications </autocolor></a></li>
   <li><a href="http://journal08.magtech.org.cn/Jwk3_zlyj/CN/1007-9092/home.shtml"><autocolor>治理研究</autocolor></a></li>
 </ul>
 
