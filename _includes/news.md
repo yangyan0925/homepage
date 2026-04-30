@@ -1,6 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Apr. 2026]</strong> My article, <em>“Divergent Pathways to ‘Digital China’: Unveiling Provincial Digital Agendas Under Top-Level Design”</em>, co-authored with Prof. Dr. Genia Kostka, has been published online in <em>Journal of Contemporary China</em>. Read it <a href="https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660">here</a>.</li>
 <li><strong>[Spring 2026]</strong> <strong>I will join the School of Political Science and International Relations at Tongji University as an Assistant Professor. I look forward to starting this new chapter in Shanghai—one of China’s most international cities.</strong></li>
 <li><strong>[Feb. 2026]</strong> Our paper proposal, <em>“Who Meets the Secretary? Mapping State–Business Networks Across China’s Provinces (2005–2024)”</em>, co-authored with Dr. María Sol Parrales López (Fellow, IPE; Department of International Relations, The London School of Economics and Political Science), has been accepted for presentation at the 2026 ECPR General Conference, under the panel “From Texts to Networks: Semantic, Socio-Semantic, and Discourse Networks” in the Political Networks Section.</li>
 
