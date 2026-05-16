@@ -1,11 +1,19 @@
 main:
 
+  - title: "Aligning Agendas in Public-Activity Reports: Provincial Leaders and Central Signals in China, 2016–2022"
+    authors: <strong>Yang Yan</strong>, Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: JCPS
+    conference: Journal of Chinese Political Science, 2026.
+    pdf: https://drive.google.com/file/d/1NIEuixobAO8P4FsGGfygBo9JtK6cqtpe/view?usp=sharing
+    #page: https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660
+    image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/JCPS2026.png
+  
   - title: "Divergent Pathways to 'Digital China': Unveiling Provincial Digital Agendas Under Top-Level Design"
     authors: <strong>Yang Yan</strong>, Genia Kostka<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: JoCC
     conference: Journal of Contemporary China, 2026.
     pdf: https://drive.google.com/file/d/1d84Y5O94GsVpgPShC_7Ks1KXTHJoO5gn/view?usp=sharing
-    page: https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660
+    #page: https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660
     image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/JoCC2026.png
 
   - title: "Portraying Competence, Benevolence or Party-Loyalty? Political Propaganda and the Image-Building of Political Elites in China"
