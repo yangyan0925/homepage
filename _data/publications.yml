@@ -1,5 +1,13 @@
 main:
 
+  - title: "Reassurance and pride: Narrating and legitimating digital surveillance in China"
+    authors: <strong>Yang Yan</strong>, Danqi Guo, Genia Kostka<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: IPSR
+    conference: International Political Science Review, 2026.
+    pdf: https://drive.google.com/file/d/183-h3FqOIDTk3VnN2GRMpFzHayUTmywU/view?usp=sharing
+    #page: https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660
+    image: https://raw.githubusercontent.com/yangyan0925/homepage/main/assets/teaser/IPSR2026.png
+  
   - title: "Aligning Agendas in Public-Activity Reports: Provincial Leaders and Central Signals in China, 2016–2022"
     authors: <strong>Yang Yan</strong>, Zhusong Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: JCPS
