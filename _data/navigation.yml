@@ -1,5 +1,8 @@
 main:
 
+  - title: "中文"
+    url: /homepage/zh/
+  
   - title: "Teaching"
     url: /homepage/teaching/
     right: true 
@@ -19,5 +22,4 @@ main:
   - title: "Home"
     url: /homepage/
 
-  - title: "中文"
-    url: /homepage/zh/
+  
