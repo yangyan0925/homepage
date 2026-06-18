@@ -19,5 +19,5 @@ main:
   - title: "Home"
     url: /homepage/
 
-  - title: "中文"
-    url: /homepage/zh/
+  #- title: "中文"
+    #url: /homepage/zh/
