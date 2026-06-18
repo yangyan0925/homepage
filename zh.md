@@ -13,7 +13,7 @@ lang: zh
 
 我的研究主要处于政治学与公共管理的交叉领域，重点关注当代中国的精英政治与政治网络、政治传播以及数字治理。我的研究成果发表于 *Comparative Politics*、*Journal of Chinese Political Science*、*International Political Science Review*、*Administration & Society*、*Journal of Comparative Policy Analysis*、*Journal of Contemporary China*、《政治学研究》、《治理研究》等国际和国内同行评议刊物。
 
-<h2 style="margin: 60px 0px 10px;">新闻</h2>
+<h2 style="margin: 60px 0px 10px;">动态</h2>
 
 <ul>
   <li><strong>[2026年6月]</strong> 我和郭丹琪、Genia Kostka 教授合作的论文 “Reassurance and Pride: Narrating and Legitimating Digital Surveillance in China” 已在线发表于 <em>International Political Science Review</em>。</li>
