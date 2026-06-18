@@ -25,6 +25,6 @@ lang: zh
 
 <h2 style="margin: 60px 0px 10px;">联系方式</h2>
 
-<p><strong>地址：</strong>上海市杨浦区四平路1239号，同济大学</p>
-<p><strong>办公室：</strong>同济大学四平路校区，衷和楼1403</p>
+<p><strong>地址：</strong>上海市杨浦区四平路1239号同济大学政治与国际关系学院</p>
+<p><strong>办公室：</strong>同济大学四平路校区衷和楼</p>
 <p><strong>邮箱：</strong>yanyang0925@tongji.edu.cn</p>
