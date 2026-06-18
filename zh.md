@@ -18,9 +18,9 @@ lang: zh
 <h2 style="margin: 60px 0px 10px;">动态</h2>
 
 <ul>
-  <li><strong>[2026年6月]</strong> 我和郭丹琪、Genia Kostka 教授合作的论文 “Reassurance and Pride: Narrating and Legitimating Digital Surveillance in China” 已在线发表于 <em>International Political Science Review</em>。</li>
-  <li><strong>[2026年5月]</strong> 我和杨竺松老师合作的论文 “Aligning Agendas in Public-Activity Reports: Provincial Leaders and Central Signals in China, 2016–2022” 已在线发表于 <em>Journal of Chinese Political Science</em>。</li>
-  <li><strong>[2026年4月]</strong> 我和 Genia Kostka 教授合作的论文 “Divergent Pathways to ‘Digital China’: Unveiling Provincial Digital Agendas Under Top-Level Design” 已在线发表于 <em>Journal of Contemporary China</em>。</li>
+  <li><strong>[2026年6月]</strong> 我和郭丹琪、Genia Kostka 教授合作的论文 “Reassurance and Pride: Narrating and Legitimating Digital Surveillance in China” 已在线发表于 <em>International Political Science Review</em>。阅读全文请点击 <a href="https://journals.sagepub.com/doi/10.1177/01925121261451171">这里</a>。</li>
+  <li><strong>[2026年5月]</strong> 我和杨竺松老师合作的论文 “Aligning Agendas in Public-Activity Reports: Provincial Leaders and Central Signals in China, 2016–2022” 已在线发表于 <em>Journal of Chinese Political Science</em>。阅读全文请点击 <a href="https://link.springer.com/article/10.1007/s11366-026-09946-9">这里</a>。</li>
+  <li><strong>[2026年4月]</strong> 我和 Genia Kostka 教授合作的论文 “Divergent Pathways to ‘Digital China’: Unveiling Provincial Digital Agendas Under Top-Level Design” 已在线发表于 <em>Journal of Contemporary China</em>。阅读全文请点击 <a href="https://www.tandfonline.com/doi/full/10.1080/10670564.2026.2665660">这里</a>。</li>
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">联系方式</h2>
