@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: 中文
-permalink: /zh/
+permalink: /zh.html
 ---
 
 <h1 id="about-me"></h1>
