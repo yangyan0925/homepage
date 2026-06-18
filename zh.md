@@ -8,7 +8,7 @@ permalink: /zh.html
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-欢迎来到我的主页！我是燕阳，现任同济大学政治与国际关系学院助理教授（2026.4-）。此前，我曾在德国柏林自由大学中国研究中心担任博士后研究员（2023-2026），并在清华大学公共管理学院从事博士后研究（2021-2023）。我于20211和2021年在北京邮电大学分别获得管理学学士和管理科学与工程专业博士学位。
+欢迎来到我的主页！我是燕阳，现任同济大学政治与国际关系学院助理教授（2026.4-）。此前，我曾在德国柏林自由大学中国研究中心担任博士后研究员（2023-2026），并在清华大学公共管理学院从事博士后研究（2021-2023）。我于2021和2021年在北京邮电大学分别获得管理学学士和管理科学与工程专业博士学位。
 
 我的研究主要处于政治学与公共管理的交叉领域，重点关注当代中国的精英政治与政治网络、政治传播以及数字治理。我的研究成果发表于 *Comparative Politics*、*Journal of Chinese Political Science*、*International Political Science Review*、*Administration & Society*、*Journal of Comparative Policy Analysis*、*Journal of Contemporary China*、《政治学研究》、《治理研究》等国际和国内同行评议刊物。
 
