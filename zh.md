@@ -2,6 +2,7 @@
 layout: homepage
 title: 中文
 permalink: /zh.html
+lang: zh
 ---
 
 <h1 id="about-me"></h1>
