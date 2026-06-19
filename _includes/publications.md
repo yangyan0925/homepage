@@ -3,11 +3,11 @@
 <h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Z1F1vLgAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Yang-Yan-18" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://orcid.org/0000-0001-8085-6981" target="_blank" style="font-size:15px;">ORCID</a><temp style="font-size:15px;">]</temp></h2>
 
 <style>
-  .older-publications {
+  .earlier-publications {
     display: none;
   }
 
-  .older-publications.is-open {
+  .earlier-publications.is-open {
     display: block;
   }
 
@@ -36,7 +36,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main limit:6 %}
+{% for link in site.data.publications.main limit:4 %}
 
 <li>
 <div class="pub-row">
@@ -83,15 +83,15 @@
 </ol>
 
 <div class="pub-toggle-wrap">
-  <button class="pub-toggle-btn" id="olderPubBtn" onclick="toggleOlderPublications()">
-    Show older publications
+  <button class="pub-toggle-btn" id="earlierPubBtn" onclick="toggleEarlierPublications()">
+    Show earlier publications
   </button>
 </div>
 
-<div class="older-publications" id="olderPublications">
-<ol class="bibliography" start="7">
+<div class="earlier-publications" id="earlierPublications">
+<ol class="bibliography" start="5">
 
-{% for link in site.data.publications.main offset:6 %}
+{% for link in site.data.publications.main offset:4 %}
 
 <li>
 <div class="pub-row">
@@ -140,16 +140,16 @@
 </div>
 
 <script>
-  function toggleOlderPublications() {
-    var older = document.getElementById("olderPublications");
-    var btn = document.getElementById("olderPubBtn");
+  function toggleEarlierPublications() {
+    var earlier = document.getElementById("earlierPublications");
+    var btn = document.getElementById("earlierPubBtn");
 
-    if (older.classList.contains("is-open")) {
-      older.classList.remove("is-open");
-      btn.innerHTML = "Show older publications";
+    if (earlier.classList.contains("is-open")) {
+      earlier.classList.remove("is-open");
+      btn.innerHTML = "Show earlier publications";
     } else {
-      older.classList.add("is-open");
-      btn.innerHTML = "Hide older publications";
+      earlier.classList.add("is-open");
+      btn.innerHTML = "Hide earlier publications";
     }
   }
 </script>
