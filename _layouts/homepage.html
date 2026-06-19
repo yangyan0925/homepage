@@ -64,28 +64,23 @@
     <link rel="stylesheet" href="https://cdn.brand.illinois.edu/illinois.css">
 
     <style>
+      /* Tongji top-bar refinement.
+         This keeps the original nav.css layout intact and only adds a small institutional mark on the left. */
       .topnav.tj-topnav {
-        position: relative !important;
-        min-height: 46px !important;
-        height: 46px !important;
-        overflow: visible !important;
         background: #003F63 !important;
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-        box-sizing: border-box !important;
+        position: relative !important;
       }
 
-      .topnav.tj-topnav .institution-brand {
+      .topnav.tj-topnav .tj-brand {
         position: absolute !important;
         left: 70px !important;
         top: 50% !important;
         transform: translateY(-50%) !important;
-        display: flex !important;
+        display: inline-flex !important;
         align-items: center !important;
-        gap: 7px !important;
-        height: 34px !important;
-        padding: 3px 9px !important;
+        gap: 6px !important;
+        height: 28px !important;
+        padding: 2px 7px !important;
         margin: 0 !important;
         line-height: 1 !important;
         float: none !important;
@@ -95,40 +90,36 @@
         border-radius: 2px !important;
         text-decoration: none !important;
         box-sizing: border-box !important;
-        z-index: 10 !important;
+        z-index: 1000 !important;
       }
 
-      .topnav.tj-topnav .institution-brand:hover {
+      .topnav.tj-topnav .tj-brand:hover {
         background: #ffffff !important;
-        opacity: 0.88 !important;
+        opacity: 0.90 !important;
       }
 
-      .topnav.tj-topnav .institution-brand img {
+      .topnav.tj-topnav .tj-brand img {
         display: block !important;
         float: none !important;
         width: auto !important;
         max-width: none !important;
         max-height: none !important;
-        object-fit: contain !important;
-        filter: none !important;
-        opacity: 1 !important;
+        height: auto !important;
         margin: 0 !important;
         padding: 0 !important;
         border: 0 !important;
+        filter: none !important;
+        opacity: 1 !important;
+        object-fit: contain !important;
         box-sizing: border-box !important;
       }
 
-      .topnav.tj-topnav .tj-badge {
-        height: 24px !important;
+      .topnav.tj-topnav .tj-brand .tj-badge {
+        height: 22px !important;
       }
 
-      .topnav.tj-topnav .tj-name {
-        height: 24px !important;
-      }
-
-      .topnav.tj-topnav #myLinks {
-        display: inline !important;
-        text-align: center !important;
+      .topnav.tj-topnav .tj-brand .tj-name {
+        height: 22px !important;
       }
 
       .topnav.tj-topnav #myLinks a,
@@ -136,28 +127,18 @@
         color: #ffffff !important;
       }
 
-      .topnav.tj-topnav #myLinks a:hover,
-      .topnav.tj-topnav .icon:hover {
-        background: rgba(255, 255, 255, 0.12) !important;
-        color: #ffffff !important;
-      }
-
       @media screen and (max-width: 1050px) {
-        .topnav.tj-topnav .institution-brand {
+        .topnav.tj-topnav .tj-brand {
           left: 16px !important;
         }
 
-        .topnav.tj-topnav .tj-name {
+        .topnav.tj-topnav .tj-brand .tj-name {
           display: none !important;
         }
       }
 
       @media screen and (max-width: 760px) {
-        .topnav.tj-topnav {
-          justify-content: flex-start !important;
-        }
-
-        .topnav.tj-topnav .institution-brand {
+        .topnav.tj-topnav .tj-brand {
           display: none !important;
         }
       }
@@ -200,9 +181,9 @@
 
   <body>
     <div class="topnav tj-topnav">
-      <a class="institution-brand" href="{{ site.affiliation_link }}" rel="noopener" aria-label="{{ institution_alt }}">
-        <img class="tj-badge" src="{{ '/assets/img/tongji-badge.png' | relative_url }}" alt="">
-        <img class="tj-name" src="{{ '/assets/img/tongji-name.png' | relative_url }}" alt="{{ institution_alt }}">
+      <a class="tj-brand" href="{{ site.affiliation_link }}" rel="noopener" aria-label="{{ institution_alt }}">
+        <img class="tj-badge" src="./assets/img/tongji-badge.png" alt="">
+        <img class="tj-name" src="./assets/img/tongji-name.png" alt="{{ institution_alt }}">
       </a>
 
       <div id="myLinks">
