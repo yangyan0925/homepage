@@ -142,29 +142,23 @@
     <script type="text/javascript">
       function toggle_vis(id) {
         var e = document.getElementById(id);
-        if (e.style.display == 'none')
+        if (e.style.display == 'none') {
           e.style.display = 'inline';
-        else
+        } else {
           e.style.display = 'none';
+        }
       }
     </script>
 
     <script>
       function myFunction() {
         var x = document.getElementById("myLinks");
-        if (x.style.display === "inline") {
+        if (!x) return;
+
+        if (x.style.display === "block") {
           x.style.display = "none";
         } else {
-          x.style.display = "inline";
-        }
-      }
-
-      function reverseLinks() {
-        var container = document.getElementById("myLinks");
-        var links = Array.from(container.getElementsByTagName('a'));
-        container.innerHTML = '';
-        for (var i = links.length - 1; i >= 0; i--) {
-          container.appendChild(links[i]);
+          x.style.display = "block";
         }
       }
     </script>
@@ -181,7 +175,7 @@
         {% include navigation.md %}
       </div>
 
-     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
     </div>
