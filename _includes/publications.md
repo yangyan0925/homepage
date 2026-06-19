@@ -36,7 +36,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main limit:4 %}
+{% for link in site.data.publications.main limit:5 %}
 
 <li>
 <div class="pub-row">
@@ -89,9 +89,9 @@
 </div>
 
 <div class="earlier-publications" id="earlierPublications">
-<ol class="bibliography" start="5">
+<ol class="bibliography" start="6">
 
-{% for link in site.data.publications.main offset:4 %}
+{% for link in site.data.publications.main offset:5 %}
 
 <li>
 <div class="pub-row">
