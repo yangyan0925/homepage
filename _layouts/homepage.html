@@ -5,6 +5,7 @@
   {% assign profile_name = "燕阳" %}
   {% assign profile_position = "助理教授" %}
   {% assign profile_affiliation = "同济大学" %}
+  {% assign institution_alt = "同济大学" %}
   {% assign back_to_top_text = "返回顶部" %}
   {% assign last_update_text = "最后更新：" %}
 {% else %}
@@ -13,6 +14,7 @@
   {% assign profile_name = site.title %}
   {% assign profile_position = site.position %}
   {% assign profile_affiliation = site.affiliation %}
+  {% assign institution_alt = "Tongji University" %}
   {% assign back_to_top_text = "Back to Top" %}
   {% assign last_update_text = "Last Update:" %}
 {% endif %}
@@ -60,6 +62,71 @@
     <link rel="stylesheet" href="./assets/css/pub.css">
     <link rel="stylesheet" href="./assets/css/nav.css">
     <link rel="stylesheet" href="https://cdn.brand.illinois.edu/illinois.css">
+
+    <style>
+      .topnav.tj-topnav {
+        background: #003F63;
+        position: relative;
+      }
+
+      .topnav.tj-topnav .institution-brand {
+        position: absolute;
+        left: 22px;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 0;
+        margin: 0;
+        line-height: 1;
+        text-decoration: none;
+        background: transparent;
+        z-index: 2;
+      }
+
+      .topnav.tj-topnav .institution-brand img {
+        display: block;
+        filter: brightness(0) invert(1);
+        opacity: 0.96;
+      }
+
+      .topnav.tj-topnav .institution-brand:hover {
+        background: transparent;
+        opacity: 0.82;
+      }
+
+      .topnav.tj-topnav .tj-badge {
+        height: 24px;
+        width: auto;
+      }
+
+      .topnav.tj-topnav .tj-name {
+        height: 23px;
+        width: auto;
+      }
+
+      .topnav.tj-topnav #myLinks a,
+      .topnav.tj-topnav .icon {
+        color: #ffffff;
+      }
+
+      @media screen and (max-width: 900px) {
+        .topnav.tj-topnav .tj-name {
+          display: none;
+        }
+
+        .topnav.tj-topnav .institution-brand {
+          left: 16px;
+        }
+      }
+
+      @media screen and (max-width: 760px) {
+        .topnav.tj-topnav .institution-brand {
+          display: none;
+        }
+      }
+    </style>
     
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
@@ -97,8 +164,11 @@
   </head>
 
   <body>
-    <div class="topnav">
-      <a href="{{ site.affiliation_link }}"><img width="120" src="{{ site.affiliation_logo }}"></a>
+    <div class="topnav tj-topnav">
+      <a class="institution-brand" href="{{ site.affiliation_link }}" rel="noopener" aria-label="{{ institution_alt }}">
+        <img class="tj-badge" src="{{ '/assets/img/tongji-badge.png' | relative_url }}" alt="">
+        <img class="tj-name" src="{{ '/assets/img/tongji-name.png' | relative_url }}" alt="{{ institution_alt }}">
+      </a>
 
       <div id="myLinks">
         {% include navigation.md %}
