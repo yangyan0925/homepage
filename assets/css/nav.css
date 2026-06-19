@@ -1,163 +1,192 @@
-/* Add a black background color to the top navigation */
+/* Top navigation */
 .topnav {
-    background-color: #13294B;
-    overflow: hidden;
-	  position:fixed;
-	  z-index:999;
-    width:100%;
-  }
-
-
-  .topnav #myLinks {
-    display: inline;
-  }
-
-.topnav a.icon {
-    display: none;
+  background-color: #003F63;
+  overflow: hidden;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  min-height: 42px;
 }
 
+/* Desktop navigation */
+.topnav #myLinks {
+  display: inline;
+}
+
+.topnav a.icon {
+  display: none;
+}
+
+.topnav img {
+  margin-bottom: 0pt;
+  margin-top: 10pt;
+  margin-left: 30%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a.normal {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 9px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a.normal:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Right-side spacing for the first/rightmost nav item */
+.topnav a.right {
+  margin-right: 30%;
+}
+
+@media print, screen and (max-width: 1000px) {
   .topnav img {
-    margin-bottom:0pt;
-    margin-top:10pt;
-    margin-left:30%;
+    margin-left: 3%;
   }
-  
-  /* Style the links inside the navigation bar */
+
+  .topnav a.right {
+    margin-right: 3%;
+  }
+
   .topnav a.normal {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 10px 9px;
+    padding: 10px 5px;
+  }
+}
+
+@media print, screen and (max-width: 1200px) and (min-width: 1001px) {
+  .topnav img {
+    margin-left: 6%;
+  }
+
+  .topnav a.right {
+    margin-right: 6%;
+  }
+}
+
+@media print, screen and (max-width: 1400px) and (min-width: 1201px) {
+  .topnav img {
+    margin-left: 12%;
+  }
+
+  .topnav a.right {
+    margin-right: 12%;
+  }
+}
+
+@media print, screen and (max-width: 1600px) and (min-width: 1401px) {
+  .topnav img {
+    margin-left: 16%;
+  }
+
+  .topnav a.right {
+    margin-right: 16%;
+  }
+}
+
+@media print, screen and (max-width: 1800px) and (min-width: 1601px) {
+  .topnav img {
+    margin-left: 19%;
+  }
+
+  .topnav a.right {
+    margin-right: 19%;
+  }
+}
+
+@media print, screen and (max-width: 2000px) and (min-width: 1801px) {
+  .topnav img {
+    margin-left: 22%;
+  }
+
+  .topnav a.right {
+    margin-right: 22%;
+  }
+}
+
+/* Mobile navigation */
+@media print, screen and (max-width: 960px) {
+  .topnav {
+    background-color: #003F63;
+    min-height: 46px;
+    height: auto;
+    overflow: visible;
+  }
+
+  .topnav #myLinks {
+    display: none;
+    width: 100%;
+    padding-top: 46px;
+    background-color: #003F63;
+  }
+
+  .topnav a.normal,
+  .topnav a.right {
+    color: #ffffff;
+    float: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 13px 18px;
+    margin-right: 0;
+    text-align: left;
     text-decoration: none;
     font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a.normal:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.right {
-    margin-right:30%;
+    background-color: #003F63;
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
   }
 
-  @media print, screen and (max-width: 1000px) { 
+  .topnav a.normal:hover,
+  .topnav a.right:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+  }
 
-    .topnav img {
-        margin-left:3%;
-      }
+  .topnav a.icon {
+    color: #ffffff;
+    display: block;
+    padding: 0 16px;
+    font-size: 18px;
+    position: absolute;
+    right: 5%;
+    top: 0;
+    height: 46px;
+    line-height: 46px;
+    margin-right: 0;
+    background: transparent;
+    z-index: 2000;
+  }
 
-    .topnav a.right {
-        margin-right:3%;
-      }
+  .topnav a.icon:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+  }
 
-    .topnav a.normal {
-        padding: 10px 5px;
-    }
+  .topnav a.icon i {
+    color: #ffffff;
+  }
 
-   }
+  .topnav img {
+    margin-top: 10pt;
+    margin-left: 3%;
+  }
 
-   @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
+  .topnav.tj-topnav .tj-brand {
+    display: none !important;
+  }
+}
 
-    .topnav img {
-        margin-left:6%;
-      }
-    .topnav a.right {
-        margin-right:6%;
-      }
+/* Desktop reset */
+@media print, screen and (min-width: 961px) {
+  .topnav #myLinks {
+    display: inline !important;
+  }
 
-   }
-
-   @media print, screen and (max-width: 1400px) and (min-width: 1201px) { 
-
-    .topnav img {
-        margin-left:12%;
-      }
-    .topnav a.right {
-        margin-right:12%;
-      }
-
-      }
-
-
-   @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
-
-    .topnav img {
-        margin-left:16%;
-      }
-    .topnav a.right {
-        margin-right:16%;
-      }
-
-   }
-
-   @media print, screen and (max-width: 1800px) and (min-width: 1601px) { 
-
-    .topnav img {
-        margin-left:19%;
-      }
-    .topnav a.right {
-        margin-right:19%;
-      }
-
-   }
-
-   @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
-
-    .topnav img {
-        margin-left:22%;
-      }
-    .topnav a.right {
-        margin-right:22%;
-      }
-
-   }
-
-  
-   @media print, screen and (max-width: 480px) { 
-    .topnav #myLinks {
-        display: none;
-      }
-   }
-
-   @media print, screen and (max-width: 960px) { 
-
-    .topnav #myLinks {
-        display: none;
-      }
-
-      .topnav a.normal {
-        color: white;
-        float: none;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        display: block;
-      }
-
-      .topnav a.icon {
-        color: white;
-        display: block;
-        padding: 10px 16px;
-        font-size: 17px;
-        position: absolute;
-        float: right;
-        right: 0;
-        top: 0;
-        margin-right:5%;
-      }
-
-      .topnav a.right {
-        color: white;
-        float: none;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        display: block;
-        margin-right:0;
-      }
-   }
-   
-
+  .topnav a.icon {
+    display: none !important;
+  }
+}
