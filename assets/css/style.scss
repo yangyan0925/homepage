@@ -2,3 +2,40 @@
 ---
 
 @import "minimal-light";
+
+/* Global profile photo refinement.
+   This overrides the default oval avatar style across the homepage and all subpages. */
+header a.image.avatar {
+  display: inline-block !important;
+  width: 118px !important;
+  height: 148px !important;
+  margin: 0 auto 18px auto !important;
+  padding: 0 !important;
+  border-radius: 6px !important;
+  border: 1px solid #d9dee8 !important;
+  box-shadow: 0 2px 8px rgba(0, 31, 63, 0.10) !important;
+  background: #ffffff !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+header a.image.avatar img {
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  box-sizing: border-box !important;
+}
+
+@media screen and (max-width: 760px) {
+  header a.image.avatar {
+    width: 108px !important;
+    height: 136px !important;
+  }
+}
