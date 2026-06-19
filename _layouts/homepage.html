@@ -65,65 +65,100 @@
 
     <style>
       .topnav.tj-topnav {
-        background: #003F63;
-        position: relative;
+        position: relative !important;
+        min-height: 46px !important;
+        height: 46px !important;
+        overflow: visible !important;
+        background: #003F63 !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        box-sizing: border-box !important;
       }
 
       .topnav.tj-topnav .institution-brand {
-        position: absolute;
-        left: 22px;
-        top: 50%;
-        transform: translateY(-50%);
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        padding: 0;
-        margin: 0;
-        line-height: 1;
-        text-decoration: none;
-        background: transparent;
-        z-index: 2;
-      }
-
-      .topnav.tj-topnav .institution-brand img {
-        display: block;
-        filter: brightness(0) invert(1);
-        opacity: 0.96;
+        position: absolute !important;
+        left: 70px !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 7px !important;
+        height: 34px !important;
+        padding: 3px 9px !important;
+        margin: 0 !important;
+        line-height: 1 !important;
+        float: none !important;
+        width: auto !important;
+        max-width: none !important;
+        background: rgba(255, 255, 255, 0.96) !important;
+        border-radius: 2px !important;
+        text-decoration: none !important;
+        box-sizing: border-box !important;
+        z-index: 10 !important;
       }
 
       .topnav.tj-topnav .institution-brand:hover {
-        background: transparent;
-        opacity: 0.82;
+        background: #ffffff !important;
+        opacity: 0.88 !important;
+      }
+
+      .topnav.tj-topnav .institution-brand img {
+        display: block !important;
+        float: none !important;
+        width: auto !important;
+        max-width: none !important;
+        max-height: none !important;
+        object-fit: contain !important;
+        filter: none !important;
+        opacity: 1 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
       }
 
       .topnav.tj-topnav .tj-badge {
-        height: 24px;
-        width: auto;
+        height: 24px !important;
       }
 
       .topnav.tj-topnav .tj-name {
-        height: 23px;
-        width: auto;
+        height: 24px !important;
+      }
+
+      .topnav.tj-topnav #myLinks {
+        display: inline !important;
+        text-align: center !important;
       }
 
       .topnav.tj-topnav #myLinks a,
       .topnav.tj-topnav .icon {
-        color: #ffffff;
+        color: #ffffff !important;
       }
 
-      @media screen and (max-width: 900px) {
-        .topnav.tj-topnav .tj-name {
-          display: none;
+      .topnav.tj-topnav #myLinks a:hover,
+      .topnav.tj-topnav .icon:hover {
+        background: rgba(255, 255, 255, 0.12) !important;
+        color: #ffffff !important;
+      }
+
+      @media screen and (max-width: 1050px) {
+        .topnav.tj-topnav .institution-brand {
+          left: 16px !important;
         }
 
-        .topnav.tj-topnav .institution-brand {
-          left: 16px;
+        .topnav.tj-topnav .tj-name {
+          display: none !important;
         }
       }
 
       @media screen and (max-width: 760px) {
+        .topnav.tj-topnav {
+          justify-content: flex-start !important;
+        }
+
         .topnav.tj-topnav .institution-brand {
-          display: none;
+          display: none !important;
         }
       }
     </style>
