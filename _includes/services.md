@@ -11,6 +11,7 @@
   <li><a href="https://www.nature.com/palcomms/"><autocolor> Humanities and Social Sciences Communications (HSSC) </autocolor></a></li>
   <li><a href="https://journals.sagepub.com/home/IPS"><autocolor>International Political Science Review (IPSR)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/cjcc20"><autocolor>Journal of Contemporary China (JoCC)</autocolor></a></li>
+  <li><a href="https://journals.sagepub.com/home/cca"><autocolor> Journal of Current Chinese Affairs (JoCCA)</autocolor></a></li>
   <li><a href="https://www.emeraldgrouppublishing.com/journal/jebde"><autocolor> Journal of Electronic Business & Digital Economics </autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/cjcc20"><autocolor>Journal of Urban Technology (JoUT)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/cpce20"><autocolor>Post-Communist Economies</autocolor></a></li>
