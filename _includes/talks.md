@@ -4,6 +4,12 @@
 
 
 
+<h4 style="margin:0 10px 0;">Beyond Adoption: Generative AI, Verification, and Human Responsibility in China’s Local Government.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://mp.weixin.qq.com/s/1fA_E67bFY7O6wEZHilMyw"><autocolor>Fudan University–SCRIPTS Workshop “Connectivity and the Contestation of Global Order: Technology, Finance, and Geopolitics,” Fudan University, Shanghai, September 17–18, 2026.</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Policy Agenda-Setting in Comparative Perspective: Theoretical Evolution and Research Frontiers.</h4>
 
 <ul style="margin:0 0 5px;">
